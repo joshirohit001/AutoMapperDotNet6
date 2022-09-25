@@ -1,0 +1,17 @@
+D:\Project-Rohit\MVLearn.BAL\bin\Debug\net6.0\MVCLearn.BAL.deps.json
+D:\Project-Rohit\MVLearn.BAL\bin\Debug\net6.0\MVCLearn.BAL.dll
+D:\Project-Rohit\MVLearn.BAL\bin\Debug\net6.0\MVCLearn.BAL.pdb
+D:\Project-Rohit\MVLearn.BAL\bin\Debug\net6.0\MVCLearn.DAL.dll
+D:\Project-Rohit\MVLearn.BAL\bin\Debug\net6.0\MVCLearn.MAL.dll
+D:\Project-Rohit\MVLearn.BAL\bin\Debug\net6.0\MVCLearn.DAL.pdb
+D:\Project-Rohit\MVLearn.BAL\bin\Debug\net6.0\MVCLearn.MAL.pdb
+D:\Project-Rohit\MVLearn.BAL\obj\Debug\net6.0\MVCLearn.BAL.csproj.AssemblyReference.cache
+D:\Project-Rohit\MVLearn.BAL\obj\Debug\net6.0\MVCLearn.BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project-Rohit\MVLearn.BAL\obj\Debug\net6.0\MVCLearn.BAL.AssemblyInfoInputs.cache
+D:\Project-Rohit\MVLearn.BAL\obj\Debug\net6.0\MVCLearn.BAL.AssemblyInfo.cs
+D:\Project-Rohit\MVLearn.BAL\obj\Debug\net6.0\MVCLearn.BAL.csproj.CoreCompileInputs.cache
+D:\Project-Rohit\MVLearn.BAL\obj\Debug\net6.0\MVCLearn.BAL.csproj.CopyComplete
+D:\Project-Rohit\MVLearn.BAL\obj\Debug\net6.0\MVCLearn.BAL.dll
+D:\Project-Rohit\MVLearn.BAL\obj\Debug\net6.0\refint\MVCLearn.BAL.dll
+D:\Project-Rohit\MVLearn.BAL\obj\Debug\net6.0\MVCLearn.BAL.pdb
+D:\Project-Rohit\MVLearn.BAL\obj\Debug\net6.0\ref\MVCLearn.BAL.dll

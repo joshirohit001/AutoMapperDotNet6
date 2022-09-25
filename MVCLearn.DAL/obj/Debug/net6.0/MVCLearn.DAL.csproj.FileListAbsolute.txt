@@ -1,0 +1,12 @@
+D:\Project-Rohit\MVCLearn.DAL\bin\Debug\net6.0\MVCLearn.DAL.deps.json
+D:\Project-Rohit\MVCLearn.DAL\bin\Debug\net6.0\MVCLearn.DAL.dll
+D:\Project-Rohit\MVCLearn.DAL\bin\Debug\net6.0\MVCLearn.DAL.pdb
+D:\Project-Rohit\MVCLearn.DAL\obj\Debug\net6.0\MVCLearn.DAL.csproj.AssemblyReference.cache
+D:\Project-Rohit\MVCLearn.DAL\obj\Debug\net6.0\MVCLearn.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project-Rohit\MVCLearn.DAL\obj\Debug\net6.0\MVCLearn.DAL.AssemblyInfoInputs.cache
+D:\Project-Rohit\MVCLearn.DAL\obj\Debug\net6.0\MVCLearn.DAL.AssemblyInfo.cs
+D:\Project-Rohit\MVCLearn.DAL\obj\Debug\net6.0\MVCLearn.DAL.csproj.CoreCompileInputs.cache
+D:\Project-Rohit\MVCLearn.DAL\obj\Debug\net6.0\MVCLearn.DAL.dll
+D:\Project-Rohit\MVCLearn.DAL\obj\Debug\net6.0\refint\MVCLearn.DAL.dll
+D:\Project-Rohit\MVCLearn.DAL\obj\Debug\net6.0\MVCLearn.DAL.pdb
+D:\Project-Rohit\MVCLearn.DAL\obj\Debug\net6.0\ref\MVCLearn.DAL.dll
