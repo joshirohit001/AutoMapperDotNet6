@@ -1,0 +1,12 @@
+D:\Project-Rohit\MVCLearn.MAL\bin\Debug\net6.0\MVCLearn.MAL.deps.json
+D:\Project-Rohit\MVCLearn.MAL\bin\Debug\net6.0\MVCLearn.MAL.dll
+D:\Project-Rohit\MVCLearn.MAL\bin\Debug\net6.0\MVCLearn.MAL.pdb
+D:\Project-Rohit\MVCLearn.MAL\obj\Debug\net6.0\MVCLearn.MAL.csproj.AssemblyReference.cache
+D:\Project-Rohit\MVCLearn.MAL\obj\Debug\net6.0\MVCLearn.MAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project-Rohit\MVCLearn.MAL\obj\Debug\net6.0\MVCLearn.MAL.AssemblyInfoInputs.cache
+D:\Project-Rohit\MVCLearn.MAL\obj\Debug\net6.0\MVCLearn.MAL.AssemblyInfo.cs
+D:\Project-Rohit\MVCLearn.MAL\obj\Debug\net6.0\MVCLearn.MAL.csproj.CoreCompileInputs.cache
+D:\Project-Rohit\MVCLearn.MAL\obj\Debug\net6.0\MVCLearn.MAL.dll
+D:\Project-Rohit\MVCLearn.MAL\obj\Debug\net6.0\refint\MVCLearn.MAL.dll
+D:\Project-Rohit\MVCLearn.MAL\obj\Debug\net6.0\MVCLearn.MAL.pdb
+D:\Project-Rohit\MVCLearn.MAL\obj\Debug\net6.0\ref\MVCLearn.MAL.dll

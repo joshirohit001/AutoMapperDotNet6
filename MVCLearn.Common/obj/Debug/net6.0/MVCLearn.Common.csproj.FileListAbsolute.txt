@@ -1,0 +1,17 @@
+D:\Project-Rohit\MVCLearn.Common\bin\Debug\net6.0\MVCLearn.Common.deps.json
+D:\Project-Rohit\MVCLearn.Common\bin\Debug\net6.0\MVCLearn.Common.dll
+D:\Project-Rohit\MVCLearn.Common\bin\Debug\net6.0\MVCLearn.Common.pdb
+D:\Project-Rohit\MVCLearn.Common\bin\Debug\net6.0\MVCLearn.DAL.dll
+D:\Project-Rohit\MVCLearn.Common\bin\Debug\net6.0\MVCLearn.MAL.dll
+D:\Project-Rohit\MVCLearn.Common\bin\Debug\net6.0\MVCLearn.DAL.pdb
+D:\Project-Rohit\MVCLearn.Common\bin\Debug\net6.0\MVCLearn.MAL.pdb
+D:\Project-Rohit\MVCLearn.Common\obj\Debug\net6.0\MVCLearn.Common.csproj.AssemblyReference.cache
+D:\Project-Rohit\MVCLearn.Common\obj\Debug\net6.0\MVCLearn.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project-Rohit\MVCLearn.Common\obj\Debug\net6.0\MVCLearn.Common.AssemblyInfoInputs.cache
+D:\Project-Rohit\MVCLearn.Common\obj\Debug\net6.0\MVCLearn.Common.AssemblyInfo.cs
+D:\Project-Rohit\MVCLearn.Common\obj\Debug\net6.0\MVCLearn.Common.csproj.CoreCompileInputs.cache
+D:\Project-Rohit\MVCLearn.Common\obj\Debug\net6.0\MVCLearn.Common.csproj.CopyComplete
+D:\Project-Rohit\MVCLearn.Common\obj\Debug\net6.0\MVCLearn.Common.dll
+D:\Project-Rohit\MVCLearn.Common\obj\Debug\net6.0\refint\MVCLearn.Common.dll
+D:\Project-Rohit\MVCLearn.Common\obj\Debug\net6.0\MVCLearn.Common.pdb
+D:\Project-Rohit\MVCLearn.Common\obj\Debug\net6.0\ref\MVCLearn.Common.dll
